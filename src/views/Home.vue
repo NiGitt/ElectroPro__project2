@@ -130,7 +130,7 @@ cardsSmart:[
             },
             {
              id:10,
-             imgUrl:'../src/assets/img/image25.png',
+             imgUrl:'../src/assets/img/img56.png',
              title:'XIAOMI WATCH S1 ЧЕРНЫЙ',
              body:'УМНЫЕ ЧАСЫ XIAOMI',
              isCan:'В наличии',
